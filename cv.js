@@ -85,7 +85,7 @@ class IndustrialPortfolio {
                 
                 // Skip for PDF CV link
                 if (targetId === '#pdf-cv') {
-                    window.open('cv/cv-aditya-dwi-prayoga.pdf', '_blank');
+                    window.open('cv/CV_ADITYA_DWI_P.pdf', '_blank');
                     return;
                 }
                 
